@@ -7,46 +7,4 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorAccent">#03DAC5</color>
-    <color name="colorPrimaryDark">#FF000000</color>
-
-
-    <!-- Definindo cores primárias, secundárias, etc. -->
-    <color name="my_app_primary">#6200EE</color>
-    <color name="my_app_primary_dark">#3700B3</color>
-    <color name="my_app_secondary">#03DAC6</color>
-    <color name="my_app_background">#FFFFFF</color>
-    <color name="my_app_error">#B00020</color>
-
-    <!-- Variantes -->
-    <color name="my_app_primary_variant">#3700B3</color>
-    <color name="my_app_secondary_variant">#018786</color>
-    <color name="my_app_surface">#FFFFFF</color>
-    <color name="my_app_on_primary">#FFFFFF</color>
-    <color name="my_app_on_secondary">#000000</color>
-    <color name="my_app_on_background">#000000</color>
-    <color name="my_app_on_error">#FFFFFF</color>
-    <color name="my_app_on_surface">#000000</color>
-
-    <!-- Cores adicionais para Material 3 -->
-    <color name="my_app_primary_inverse">#000000</color>
-    <color name="my_app_primary_container">#BB86FC</color>
-    <color name="my_app_on_primary_container">#000000</color>
-    <color name="my_app_secondary_container">#03DAC6</color>
-    <color name="my_app_on_secondary_container">#000000</color>
-    <color name="my_app_tertiary">#FF0266</color>
-    <color name="my_app_on_tertiary">#FFFFFF</color>
-    <color name="my_app_tertiary_container">#FF80AB</color>
-    <color name="my_app_on_tertiary_container">#000000</color>
-    <color name="my_app_surface_variant">#F0F0F0</color>
-    <color name="my_app_on_surface_variant">#000000</color>
-    <color name="my_app_inverse_surface">#121212</color>
-    <color name="my_app_inverse_on_surface">#FFFFFF</color>
-    <color name="my_app_outline">#888888</color>
-    <color name="my_app_error_container">#F0F0F0</color>
-    <color name="my_app_on_error_container">#FFFFFF</color>
-    <color name="mtrl_scrim">#4D000000</color>
-
-
 </resources>

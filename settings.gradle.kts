@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "infoKernel"
+rootProject.name = "InfoKernel"
 include(":app")
+ 
