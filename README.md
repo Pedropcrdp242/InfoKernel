@@ -48,13 +48,18 @@ Ensure all dependencies are installed.
 Click "Run" or press Shift + F10 to compile and run the app on your device.
 
 ## Screenshots
-Main Screen
 
-[Add screenshot here](assets/images/main_screen.png)
+### Main Screen
 
-Detailed Information
+![Add screenshot here](assets/images/main_screen.png)
 
-[Add screenshot here](assets/images/detalied_screen.png)
+### Main Partial
+
+![Add screenshot here](assets/images/main_partial.jpg)
+
+### Detailed Information
+
+![Add screenshot here](assets/images/main_advanced.jpg)
 
 # Contributing
 ### Contributions are welcome! Follow the steps below to contribute:
