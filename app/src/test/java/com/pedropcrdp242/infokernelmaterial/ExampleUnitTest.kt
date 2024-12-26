@@ -1,4 +1,4 @@
-package com.pedropcrdp242.infokerneljetpack
+package com.pedropcrdp242.infokernelmaterial
 
 import org.junit.Test
 

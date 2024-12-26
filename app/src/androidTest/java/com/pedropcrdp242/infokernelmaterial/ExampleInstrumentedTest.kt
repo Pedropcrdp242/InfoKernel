@@ -1,4 +1,4 @@
-package com.pedropcrdp242.infokernel
+package com.pedropcrdp242.infokernelmaterial
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.pedropcrdp242.infokernel", appContext.packageName)
+        assertEquals("com.pedropcrdp242.infokernelmaterial", appContext.packageName)
     }
 }

@@ -1,4 +1,4 @@
-package com.pedropcrdp242.infokerneljetpack.ui.theme
+package com.pedropcrdp242.infokernelmaterial.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
