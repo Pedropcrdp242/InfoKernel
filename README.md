@@ -1,10 +1,8 @@
-# Kernel Info App
+# RootMate!
 
 ## About
 
-**InfoKernel**
-
-Kernel Info App is an open-source application designed to retrieve detailed information about the kernel and the type of root you're using. With this app, you can:
+RootMate is an open-source application designed to retrieve detailed information about the Root Access and the type of root you're using. With this app, you can:
 
 - Check if the device has root access.
 - Identify the type of root (Magisk, KernelSU, or other).
@@ -36,9 +34,9 @@ More details are provided below.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Pedropcrdp242/InfoKernel.git infokernel
+git clone https://github.com/Pedropcrdp242/RootMate.git rootmate
 
-cd infokernel
+cd rootmate
 ```
 Open the project in Android Studio.
 
@@ -49,17 +47,17 @@ Click "Run" or press Shift + F10 to compile and run the app on your device.
 
 ## Screenshots
 
-### Main Screen
 
-![Add screenshot here](assets/images/main_screen.png)
+![Add screenshot here](assets/images/screen.png)
 
-### Main Partial
 
-![Add screenshot here](assets/images/main_partial.jpg)
+![Add screenshot here](assets/images/screen2.png)
 
-### Detailed Information
 
-![Add screenshot here](assets/images/main_advanced.jpg)
+![Add screenshot here](assets/images/screen3.png)
+
+
+![Add screenshot here](assets/images/screen4.png)
 
 # Contributing
 ### Contributions are welcome! Follow the steps below to contribute:
